@@ -1,0 +1,21 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "## How to use",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "link:lib": "npm link @maticnetwork/maticjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@maticnetwork/maticjs": "^3.2.0",
+    "@maticnetwork/maticjs-plasma": "^1.0.2",
+    "@maticnetwork/maticjs-web3": "^1.0.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.5.1-alpha.1"
+  }
+}
