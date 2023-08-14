@@ -1,0 +1,4 @@
+Joseph Gabriel Parente 
+1. Create a TXT record in your DNS configuration for the following hostname: _github-challenge-SHIBA-st-x-org.shibatoken.com
+2. Use this code for the value of the TXT record: 90e23194fb. Please note that the code will expire in 7 days.
+3. Wait until your DNS configuration changes. This could take up to 72 hours to propagate.
